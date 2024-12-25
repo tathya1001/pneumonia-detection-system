@@ -6,8 +6,8 @@ Pneumonia is a serious illness that affects millions of people worldwide every y
 
 The dataset used in this project is the [Chest X-ray Pneumonia dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), which contains labeled images of X-ray scans. The dataset is divided into three main subsets: training, validation, and testing.
 
-- [Kaggle Code](link-to-your-kaggle-code)
-- [Kaggle Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- [Kaggle Code](https://www.kaggle.com/code/tathya1001/pneumonia-detection)
+- [Dataset Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data)
 
 ## Model Architecture
 
