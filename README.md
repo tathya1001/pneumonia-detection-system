@@ -1,6 +1,6 @@
 # Pneumonia Detection System
 
-Pneumonia is a serious illness that affects millions of people worldwide every year. Early diagnosis plays a crucial role in preventing severe complications. This repository contains a model that predicts the presence of pneumonia by analyzing chest X-ray images. The model uses a Convolutional Neural Network (CNN) architecture, which has been trained on a publicly available Chest X-ray Pneumonia dataset. The goal is to classify images into two categories: "Pneumonia" or "Normal."
+Pneumonia is a serious illness that affects millions of people worldwide every year. Early diagnosis plays a crucial role in preventing severe complications. This project predicts the presence of pneumonia by analyzing chest X-ray images. The model uses a Convolutional Neural Network (CNN) architecture, which has been trained on a publicly available Chest X-ray Pneumonia dataset. The goal is to classify images into two categories: "Pneumonia" or "Normal."
 
 ## Dataset and Kaggle Code
 
@@ -44,10 +44,10 @@ The model achieved an accuracy of **78%** on the test dataset, demonstrating its
 
 Below is an image showing a batch of 64 sample images loaded for training:
 
-![Sample Images from a Batch](image-link-to-sample-images.jpg)
+![Sample Images from a Batch of 64](https://github.com/tathya1001/pneumonia-detection-system/blob/main/batch_samples.png?raw=true)
 
 ## Predicted Labels for a Batch
 
 Here are the predicted labels for the samples in a batch. The model outputs probabilities for each class, which are used to predict the labels:
 
-![Predicted Labels](image-link-to-predicted-labels.jpg)
+![Predicted Labels in a Batch of 64](https://github.com/tathya1001/pneumonia-detection-system/blob/main/batch_samples_with_predictions.png?raw=true)
